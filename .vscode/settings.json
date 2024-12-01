@@ -1,0 +1,14 @@
+{
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}${separator}[Branch: exercicioPostgres]",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "dbebac",
+            "database": "dbebac",
+            "username": "postgres"
+        }
+    ]
+}
